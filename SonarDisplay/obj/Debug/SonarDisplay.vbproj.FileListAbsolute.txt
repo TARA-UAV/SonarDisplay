@@ -1,0 +1,10 @@
+C:\AR\VBProjects\SonarDisplay\SonarDisplay\bin\Debug\SonarDisplay.exe
+C:\AR\VBProjects\SonarDisplay\SonarDisplay\bin\Debug\SonarDisplay.pdb
+C:\AR\VBProjects\SonarDisplay\SonarDisplay\bin\Debug\SonarDisplay.xml
+C:\AR\VBProjects\SonarDisplay\SonarDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\AR\VBProjects\SonarDisplay\SonarDisplay\obj\Debug\SonarDisplay.frmMain.resources
+C:\AR\VBProjects\SonarDisplay\SonarDisplay\obj\Debug\SonarDisplay.Resources.resources
+C:\AR\VBProjects\SonarDisplay\SonarDisplay\obj\Debug\SonarDisplay.vbproj.GenerateResource.Cache
+C:\AR\VBProjects\SonarDisplay\SonarDisplay\obj\Debug\SonarDisplay.exe
+C:\AR\VBProjects\SonarDisplay\SonarDisplay\obj\Debug\SonarDisplay.xml
+C:\AR\VBProjects\SonarDisplay\SonarDisplay\obj\Debug\SonarDisplay.pdb
